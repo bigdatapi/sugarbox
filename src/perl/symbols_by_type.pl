@@ -128,7 +128,7 @@ sub print_version
     my $version = "v1.0";
     print "#######################################\n";
     print "##### Initial Version Authors    ######\n";
-    print "##### <harryczhang\@tencent.com>  ######\n";
+    print "##### <bigdatapi\@qq.com>  ######\n";
     print "##### Since Feb 2014             ######\n";
     print "#######################################\n";
     print basename($0) . ": Version $version\n"; 
